@@ -17,7 +17,7 @@
         </policy>
         <policy id="connect-src">
             <values>
-                <value id="newrelic-data" type="host">*.newrelic.com</value>
+                <value id="newrelic" type="host">*.newrelic.com</value>
                 <value id="newrelic-data" type="host">*.nr-data.net</value>
             </values>
         </policy>
